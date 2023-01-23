@@ -1,4 +1,4 @@
-package ortonormalnivektora;
+package SemestralProject;
 import java.util.Scanner;
 /**
  * 1. program checks if given n vectors with n elements are orthonormal. 
