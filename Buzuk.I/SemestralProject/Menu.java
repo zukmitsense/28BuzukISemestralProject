@@ -25,7 +25,7 @@ public class Menu {
         int choice = sc.nextInt();
         switch (choice) {
             case 1 -> OrtonormalniVektora.ortonormalniVektora();
-            case 2 -> ortonormalnivektora.ChristmasBuzukIvan.Vanocni_uloha();
+            case 2 -> ChristmasBuzukIvan.Vanocni_uloha();
             default -> System.out.println("Nevalidni vstup");
                     
                     
