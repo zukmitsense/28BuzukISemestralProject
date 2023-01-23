@@ -1,4 +1,4 @@
-package ortonormalnivektora;
+package SemestralProject;
 import java.util.Scanner;
 
 /**
